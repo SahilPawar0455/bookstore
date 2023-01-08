@@ -1,0 +1,18 @@
+
+.form-content1 {
+    justify-content: center;
+    align-items: center;
+    /* min-height: calc(100% - 80px); */
+    display: flex;
+    margin: 200px;
+}
+
+.form1 {
+    width: 40%;
+    height: 80%;
+    background: #ffffff 0% 0% no-repeat padding-box;
+   
+    border-radius: 8px;
+    opacity: 1;
+    margin-top: 15px;
+}
